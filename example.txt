@@ -1,0 +1,1 @@
+Hello file, I am writing into example.txt file using python
